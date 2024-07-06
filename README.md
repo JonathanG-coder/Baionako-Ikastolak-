@@ -30,6 +30,16 @@ En raison de divergences entre les écoles et l'association BIL, le site n'a pas
 
 ![Capture d'écran 2024-07-06 090734](https://github.com/JonathanG-coder/Baionako-Ikastolak-/assets/159537523/08c70aac-57cc-4dec-b89d-8f98c23ba685)
 
+<br>
+<br>
+
+![Capture d'écran 2024-07-06 105805](https://github.com/JonathanG-coder/Baionako-Ikastolak-/assets/159537523/7386f7d2-31c6-4899-8448-b8b4b7b16f2c)
+
+<br>
+<br>
+
+![Capture d'écran 2024-07-06 105051](https://github.com/JonathanG-coder/Baionako-Ikastolak-/assets/159537523/4673d6ae-6b92-4646-a23a-e81674a8c66b)
+
 
 
 
