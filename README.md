@@ -22,3 +22,6 @@ Mise en place d'une boutique en ligne intégrant une extension e-commerce. Cette
 
 # Développement Actuel
 En raison de divergences entre les écoles et l'association BIL, le site n'a pas pu être hébergé. À la place, des photos du contenu sont utilisées pour donner un aperçu visuel du projet.
+
+![Capture d'écran 2024-07-06 090518](https://github.com/JonathanG-coder/Baionako-Ikastolak-/assets/159537523/f1a0e269-b96a-497a-937f-b0dc591d7857)
+
