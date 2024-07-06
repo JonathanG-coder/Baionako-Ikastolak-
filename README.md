@@ -22,7 +22,10 @@ Chaque école (Poloko Hiriondo Ikastola, Oihana Ikastola) ainsi que l'associatio
 
 <br>
 <br>
-![Capture d'écran 2024-07-06 090734](https://github.com/JonathanG-coder/Baionako-Ikastolak-/assets/159537523/08c70aac-57cc-4dec-b89d-8f98c23ba685)
+
+![Capture d'écran 2024-07-06 090734](https://github.com/JonathanG-coder/Baionako-Ikastolak-/assets/159537523/16230f6d-4e32-401d-8435-7fce9cd9c44e)
+
+
 <br>
 <br>
 
